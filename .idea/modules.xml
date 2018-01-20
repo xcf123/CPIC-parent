@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CPIC-common/CPIC-common.iml" filepath="$PROJECT_DIR$/../CPIC-common/CPIC-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CPIC-manager/CPIC-manager.iml" filepath="$PROJECT_DIR$/../CPIC-manager/CPIC-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CPIC-manager/CPIC-manager-dao/CPIC-manager-dao.iml" filepath="$PROJECT_DIR$/../CPIC-manager/CPIC-manager-dao/CPIC-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CPIC-manager/CPIC-manager-interface/CPIC-manager-interface.iml" filepath="$PROJECT_DIR$/../CPIC-manager/CPIC-manager-interface/CPIC-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CPIC-manager/CPIC-manager-pojo/CPIC-manager-pojo.iml" filepath="$PROJECT_DIR$/../CPIC-manager/CPIC-manager-pojo/CPIC-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CPIC-manager/CPIC-manager-service/CPIC-manager-service.iml" filepath="$PROJECT_DIR$/../CPIC-manager/CPIC-manager-service/CPIC-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CPIC-manager/CPIC-manager-web/CPIC-manager-web.iml" filepath="$PROJECT_DIR$/../CPIC-manager/CPIC-manager-web/CPIC-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CPIC-parent.iml" filepath="$PROJECT_DIR$/CPIC-parent.iml" />
+    </modules>
+  </component>
+</project>
